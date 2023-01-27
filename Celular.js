@@ -1,7 +1,7 @@
 class Celular extends Dispositivo{
     Camara;
-    #NumeroCeular;
-    #Contraseña;
+    NumeroCeular;
+    Contraseña;
     MemoraGB;
 
 constructor(Camara,NumeroCelular,Contraseña,MemoriaGB){
