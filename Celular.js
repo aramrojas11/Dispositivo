@@ -4,7 +4,7 @@ class Celular extends Dispositivo{
     #Contraseña;
     MemoraGB;
 }
-function CambarNumero(NuevoNumero){
+function CambiarNumero(NuevoNumero){
     return [];
 }
 function ActualizarContraseña(NuevaContraseña){
